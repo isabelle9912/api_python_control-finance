@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/saahirah/Documentos/projetos/api_python_control-finance/venv"
+VIRTUAL_ENV="/home/saahirah/Desktop/api_python/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
